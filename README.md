@@ -10,3 +10,6 @@ This thesis implements an experiment in a common design problem such as optimizi
 The results show that the proposed Artificial Intelligence workflow is able to generate novel and structurally better performing solutions that those existing in the training dataset. The findings of this thesis indicate that Artificial Intelligence can be successfully integrated into the concept of Generative Design to optimize shell structures.
  
 ![1](https://user-images.githubusercontent.com/120601318/208213648-fedf954a-1653-43e1-8a58-2999df897fd1.gif)
+
+
+Full report here: http://resolver.tudelft.nl/uuid:01c2da7f-7718-495c-a304-ce142abc1426
