@@ -1,4 +1,4 @@
-# Deep-Generative-Design
+# Deep Generative Design
 
 In an urban context that needs to be constantly adapted to global crises, population movements, climate change and economic crises, designers and engineers strive to configure solutions that respond to multiple criteria. Within this framework, the concept of generative design is gaining more and more ground in the construction field, allowing rapid design space exploration, optimization and decision making for complex design problems.
 
